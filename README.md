@@ -1,1 +1,1 @@
-GDI project! Learning Github!
+GDI project! Learning Github! Yay!
